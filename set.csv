@@ -1,0 +1,31 @@
+Order Date,Order ID,Customer Name,Category,Product Name,Region,Sales,Profit,Quantity
+2025-01-05,ORD001,Alice Johnson,Electronics,Laptop,North,1200,250,2
+2025-01-08,ORD002,Bob Smith,Furniture,Office Chair,South,350,80,1
+2025-01-12,ORD003,Charlie Brown,Electronics,Smartphone,East,800,180,3
+2025-01-15,ORD004,David Wilson,Clothing,T-Shirt,West,120,40,5
+2025-01-20,ORD005,Emma Davis,Furniture,Desk,North,500,120,1
+2025-02-02,ORD006,Frank Miller,Electronics,Tablet,South,600,140,2
+2025-02-05,ORD007,Grace Lee,Clothing,Jeans,East,180,60,4
+2025-02-10,ORD008,Henry Taylor,Electronics,Headphones,West,150,50,6
+2025-02-18,ORD009,Isabella Moore,Furniture,Bookshelf,North,420,90,2
+2025-02-25,ORD010,Jack Anderson,Clothing,Jacket,South,250,70,2
+2025-03-03,ORD011,Karen Thomas,Electronics,Smartwatch,East,300,85,3
+2025-03-08,ORD012,Liam Martin,Furniture,Coffee Table,West,450,100,1
+2025-03-12,ORD013,Mia Jackson,Clothing,Sneakers,North,220,65,3
+2025-03-18,ORD014,Noah White,Electronics,Monitor,South,700,170,2
+2025-03-25,ORD015,Olivia Harris,Furniture,Wardrobe,East,850,220,1
+2025-04-02,ORD016,Paul Clark,Clothing,Hoodie,West,160,45,4
+2025-04-07,ORD017,Quinn Lewis,Electronics,Keyboard,North,90,25,5
+2025-04-14,ORD018,Ruby Walker,Furniture,Sofa,South,1500,350,1
+2025-04-20,ORD019,Samuel Hall,Clothing,Cap,East,60,20,8
+2025-04-28,ORD020,Tina Allen,Electronics,Printer,West,400,95,2
+2025-05-04,ORD021,Umar Young,Furniture,Dining Table,North,950,240,1
+2025-05-10,ORD022,Victoria King,Clothing,Dress,South,280,75,2
+2025-05-16,ORD023,William Scott,Electronics,Camera,East,1100,260,1
+2025-05-22,ORD024,Xenia Green,Furniture,Bed Frame,West,780,190,1
+2025-05-29,ORD025,Yusuf Baker,Clothing,Shorts,North,100,30,5
+2025-06-03,ORD026,Zara Adams,Electronics,Speaker,South,320,90,3
+2025-06-08,ORD027,Aaron Hill,Furniture,TV Stand,East,380,85,2
+2025-06-12,ORD028,Bella Carter,Clothing,Sweater,West,210,55,3
+2025-06-16,ORD029,Chris Evans,Electronics,External Hard Drive,North,250,70,4
+2025-06-18,ORD030,Diana Reed,Furniture,Recliner,South,680,160,1
